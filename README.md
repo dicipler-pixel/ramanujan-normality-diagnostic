@@ -1,5 +1,7 @@
 # Companion-Matrix Normality Diagnostic for Candidate Recurrences
 
+Jeromie Beasley
+
 A universal diagnostic for linear recurrences: given a candidate holonomic
 recurrence, this tool builds its companion matrix and checks whether its
 transport geometry is well-conditioned or genuinely obstructed — a
